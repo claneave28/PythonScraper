@@ -1,11 +1,11 @@
-#READ ME FIRST
+# READ ME FIRST
 This is a modification to the popular Python Scrapy Framework that included rotation of proxies and UA.  Modifications include:
 
 Ability to scrape Amazon
 Increased Spider coverage for crawling categories
 Pipeline creation for JSON constructs
 
-###CLaneave 6/10/2017
+# CLaneave 6/10/2017
 
 
 # PythonScrapyBasicSetup
