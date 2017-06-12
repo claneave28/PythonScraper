@@ -6,6 +6,10 @@ This is a modification to the popular Python Scrapy Framework that included rota
 *Increased Spider coverage for crawling categories
 <BR>
 *Pipeline creation for JSON constructs
+<BR>
+``
+Please install Twisty 14.6.1 only as it is required for OpenSSL
+``
 
 # CLaneave 6/10/2017
 
