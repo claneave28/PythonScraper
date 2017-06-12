@@ -14,8 +14,7 @@ Please install Twisty 14.6.1 only as it is required for OpenSSL
 <P>
 
 ``
-Created By:
-<BR>
+Modified By:
 Carl Laneave 2017
 ``
 <P>
