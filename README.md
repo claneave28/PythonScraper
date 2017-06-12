@@ -7,13 +7,18 @@ This is a modification to the popular Python Scrapy Framework that included rota
 <BR>
 *Pipeline creation for JSON constructs
 <BR>
+Note:<BR>
 ``
 Please install Twisty 14.6.1 only as it is required for OpenSSL
 ``
+<P>
 
-# CLaneave 6/10/2017
-
-
+``
+Created By:
+<BR>
+Carl Laneave 2017
+``
+<P>
 # PythonScrapyBasicSetup
 Basic setup with random user agents and proxy addresses for [Python Scrapy Framework](http://scrapy.org/).
 
